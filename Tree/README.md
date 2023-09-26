@@ -20,7 +20,7 @@ The `tree.sh` script is designed to recursively list and display directories in 
 To use this script, simply clone this repository and make sure you have permission to execute the script.
 
 ```bash
-git clone https://github.com/DmPanf/Bash_admin_scripts/blob/main/Tree/tree.sh.git
+git clone https://github.com/DmPanf/Bash_admin_scripts.git
 chmod +x tree.sh
 ```
 
