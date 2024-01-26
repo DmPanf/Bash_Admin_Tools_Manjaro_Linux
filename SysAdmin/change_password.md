@@ -1,8 +1,14 @@
-## 
+## Change Pass
 
-Applications -> Utilities -> Passwords and Keys
+- Applications -> Utilities -> Passwords and Keys
+- Passwords -> login Select “Change Password”
 
-Passwords -> login Select “Change Password”
+Или
+
+- killall -9 gnome-keyring-daemon
+- rm -fr ~/.gnome/keyrings/
+
+---
 
 ## Passwords and Keys
 
